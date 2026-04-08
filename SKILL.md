@@ -143,6 +143,7 @@ description: |
 ```
 .claude/skills/[person-name]-perspective/
 ├── SKILL.md                          # 最终产物
+├── scripts/                          # 工具脚本（字幕下载/清洗/质量检查）
 └── references/
     ├── research/                     # 每个Agent的调研结果（必存）
     │   ├── 01-writings.md            # 著作与系统思考
